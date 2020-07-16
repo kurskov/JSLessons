@@ -10,6 +10,4 @@ for (let i = 2; i <= stopNumber; i++) {
   }
 
   alert( i );
-
 }
-
